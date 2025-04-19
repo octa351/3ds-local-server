@@ -16,6 +16,4 @@ To use an updated releases list, download '3dsreleases.xml' from http://www.3dsd
 2. Create a folder to match the name set in "ciaFolder"
 3. Dump all desired CIAs into the created folder (subfolders are OK)
 4. Run BuildCatalog.py
-5. Edit StartServer.py
-- Set "PORT"
-6. Run StartServer.py
+5. Run StartServer.py
